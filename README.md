@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+> Quotes:
+> 1. Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.
 <!---
 MaxZoneJoshua/MaxZoneJoshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
